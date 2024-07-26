@@ -1,9 +1,15 @@
-## Hi there 👋
+##  	:desktop_computer: Hi,I'm Nitesh,Welcome to my Github account
+
+- 🌱 I’m currently learning Data Science in GenAi.
+- 🔭 I’m currently looking for opportunities in the field of AI.
+- 
+
 
 <!--
 **Niteshhgit/Niteshhgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
