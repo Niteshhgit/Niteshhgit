@@ -14,7 +14,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  
+- 🖱️ My hobbies and interest :
+- 💻 Gaming
+- ⚽ Sports
+- ⛰️ Traveling
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshhgit&langs_count=8)
